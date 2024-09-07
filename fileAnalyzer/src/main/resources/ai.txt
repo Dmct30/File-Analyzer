@@ -1,0 +1,33 @@
+Let’s learn about artificial intelligence
+
+You can ask Amazon’s virtual assistant, Alexa, for a lot of things. To play music, read the news or tell you the
+weather. You can even ask her to define “artificial intelligence.”
+
+“Artificial intelligence,” Alexa says, “is the ability of a computer program or a machine to think or learn.” What Alexa
+ fails to mention is that she herself is a form of artificial intelligence.
+
+Artificial intelligence, or AI, is all around us. Phone navigation apps and self-driving cars use AI to plan their
+routes. Streaming services use AI to suggest films, while online shops use it to suggest products. AI also powers search
+ engine results and virtual translators. Basically, AI is behind any device solving a problem that typically requires
+ human brainpower.
+
+Much of today’s AI is based on machine learning. This is a computer science technique that allows computers to learn
+from examples or experience. Take AlphaGo, for instance. This AI famously beat human champions at a complex game called
+Go. AlphaGo learned to play by studying 30 million Go moves that people had made. The AI then honed its skills by
+playing against different versions of itself.
+
+AI has the power to do a lot of good. Thinking machines could help diagnose diseases or treat patients. Online AI
+moderators could screen hateful posts or flag fake news stories. Artsy AI is giving the world new paintings, songs and
+other creative works.
+
+Still, in a lot of ways, today’s AI is nowhere near as smart as people. Most AI must study vast amounts of data to
+learn anything. And these systems often struggle to learn abstract concepts or explain their decisions. In some cases,
+using AI may even cause harm. AI systems can be encoded with bias against certain groups of people. That causes problems
+ when those AIs are used to judge job applications or decide prison sentences. Plus, training AI devours a lot of
+ electricity. That may harm the environment.
+
+In short: AI is revolutionizing many aspects of our lives. But like any world-changing technology, it must be used
+responsibly.
+
+By Maria Temming
+August 31, 2021 at 6:30 am
